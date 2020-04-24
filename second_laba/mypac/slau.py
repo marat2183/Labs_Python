@@ -37,6 +37,7 @@ def check_solve(a, mn):
             normalize(itog)
     else:
         itog +='Система не имеет решений\n'
+        normalize(itog)
     return
 
 
