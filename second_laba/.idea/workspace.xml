@@ -22,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Labs_Python-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -138,8 +138,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.start_program" />
-        <item itemvalue="Python.5" />
         <item itemvalue="Python.kv" />
+        <item itemvalue="Python.5" />
         <item itemvalue="Python.slau (1)" />
         <item itemvalue="Python.g (1)" />
       </list>
@@ -175,26 +175,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="560" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1587562478861" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587642311552">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587670374858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587642311552" />
-    <state width="663" height="180" key="GridCell.Tab.0.bottom" timestamp="1587652843168">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587670374858" />
+    <state width="671" height="182" key="GridCell.Tab.0.bottom" timestamp="1587688945987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="663" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587652843168" />
-    <state width="663" height="180" key="GridCell.Tab.0.center" timestamp="1587652843167">
+    <state width="671" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587688945987" />
+    <state width="671" height="182" key="GridCell.Tab.0.center" timestamp="1587688945987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="663" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587652843167" />
-    <state width="663" height="180" key="GridCell.Tab.0.left" timestamp="1587652843167">
+    <state width="671" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587688945987" />
+    <state width="671" height="182" key="GridCell.Tab.0.left" timestamp="1587688945987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="663" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587652843167" />
-    <state width="663" height="180" key="GridCell.Tab.0.right" timestamp="1587652843168">
+    <state width="671" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587688945987" />
+    <state width="671" height="182" key="GridCell.Tab.0.right" timestamp="1587688945987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="663" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587652843168" />
+    <state width="671" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587688945987" />
     <state width="663" height="216" key="GridCell.Tab.1.bottom" timestamp="1587652843138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -211,24 +211,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="663" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587652843138" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587566251037">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587686745213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587566251037" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587686745213" />
     <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587562487824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1587562487824" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mypac/slau_4.py</url>
-          <line>111</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
