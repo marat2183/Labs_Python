@@ -22,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestCoin" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -43,27 +43,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\asus\PycharmProjects\GI\start_program.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="g (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mypac" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\asus\PycharmProjects\GI\mypac\kv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,6 +93,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="slau_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mypac" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypac/slau_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,10 +138,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.start_program" />
+        <item itemvalue="Python.slau_4" />
         <item itemvalue="Python.kv" />
         <item itemvalue="Python.5" />
         <item itemvalue="Python.slau (1)" />
-        <item itemvalue="Python.g (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,46 +175,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="560" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1587562478861" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587670374858">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587708546174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587670374858" />
-    <state width="671" height="182" key="GridCell.Tab.0.bottom" timestamp="1587705553174">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587708546174" />
+    <state width="671" height="182" key="GridCell.Tab.0.bottom" timestamp="1587710866586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587705553174" />
-    <state width="671" height="182" key="GridCell.Tab.0.center" timestamp="1587705553174">
+    <state width="671" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587710866586" />
+    <state width="671" height="182" key="GridCell.Tab.0.center" timestamp="1587710866586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587705553174" />
-    <state width="671" height="182" key="GridCell.Tab.0.left" timestamp="1587705553173">
+    <state width="671" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587710866586" />
+    <state width="671" height="182" key="GridCell.Tab.0.left" timestamp="1587710866586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587705553173" />
-    <state width="671" height="182" key="GridCell.Tab.0.right" timestamp="1587705553174">
+    <state width="671" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587710866586" />
+    <state width="671" height="182" key="GridCell.Tab.0.right" timestamp="1587710866586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587705553174" />
-    <state width="671" height="219" key="GridCell.Tab.1.bottom" timestamp="1587704599930">
+    <state width="671" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587710866586" />
+    <state width="671" height="219" key="GridCell.Tab.1.bottom" timestamp="1587706313811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587704599930" />
-    <state width="671" height="219" key="GridCell.Tab.1.center" timestamp="1587704599930">
+    <state width="671" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587706313811" />
+    <state width="671" height="219" key="GridCell.Tab.1.center" timestamp="1587706313811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587704599930" />
-    <state width="671" height="219" key="GridCell.Tab.1.left" timestamp="1587704599930">
+    <state width="671" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587706313811" />
+    <state width="671" height="219" key="GridCell.Tab.1.left" timestamp="1587706313810">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587704599930" />
-    <state width="671" height="219" key="GridCell.Tab.1.right" timestamp="1587704599930">
+    <state width="671" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587706313810" />
+    <state width="671" height="219" key="GridCell.Tab.1.right" timestamp="1587706313811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="671" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587704599930" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587704107467">
+    <state width="671" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587706313811" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587708539466">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587704107467" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587708539466" />
     <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587562487824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

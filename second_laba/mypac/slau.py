@@ -43,31 +43,34 @@ def check_solve(a, mn):
 
 def gause(a):
     global itog
-    x = [0 for i in range(len(a))]
-    n = len(a)
-    for i in range(len(a[0])):
-        if a[0][i] != 0:
-            filt = i
-            break
-    for i in range(len(a)):
-        a[i][0], a[i][filt] = a[i][filt], a[i][0]
-    for k in range(1, n):
-        for j in range(k, n):
-            m = a[j][k - 1] / a[k - 1][k - 1]
-            for i in range(0, n + 1):
-                a[j][i] = a[j][i] - m * a[k - 1][i]
-    for i in range(n - 1, -1, -1):
-        x[i] = a[i][n] / a[i][i]
-        for c in range(n - 1, i, -1):
-            x[i] = x[i] - a[i][c] * x[c] / a[i][i]
-    for i in range(len(x)):
-        if x[i] == -0.0 or x[i] == +0.0:
-            x[i] = 0.0
-    for i in range(len(x)):
-        x[i] = round(x[i], 2)
-    x[0], x[filt] = x[filt], x[0]
-    itog += 'Решения методом Гаусса:\n'
-    itog += (str(x) + '\n')
+    try:
+        x = [0 for i in range(len(a))]
+        n = len(a)
+        for i in range(len(a[0])):
+            if a[0][i] != 0:
+                filt = i
+                break
+        for i in range(len(a)):
+            a[i][0], a[i][filt] = a[i][filt], a[i][0]
+        for k in range(1, n):
+            for j in range(k, n):
+                m = a[j][k - 1] / a[k - 1][k - 1]
+                for i in range(0, n + 1):
+                    a[j][i] = a[j][i] - m * a[k - 1][i]
+        for i in range(n - 1, -1, -1):
+            x[i] = a[i][n] / a[i][i]
+            for c in range(n - 1, i, -1):
+                x[i] = x[i] - a[i][c] * x[c] / a[i][i]
+        for i in range(len(x)):
+            if x[i] == -0.0 or x[i] == +0.0:
+                x[i] = 0.0
+        for i in range(len(x)):
+            x[i] = round(x[i], 2)
+        x[0], x[filt] = x[filt], x[0]
+        itog += 'Решения методом Гаусса:\n'
+        itog += (str(x) + '\n')
+    except:
+        itog += 'Не удалось решить с помощью метода Гаусса.\nНе удалось привести к ступенчатой структуре'
     return
 
 
